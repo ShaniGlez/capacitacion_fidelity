@@ -1,0 +1,21 @@
+#div_resp {
+    border: 1px solid gray;
+}
+
+.display-contents {
+    display: contents;
+}
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+.title_list {
+    font-family: "Lucida Console", monospace;
+    color: black;
+    background: #f3f3f3;
+    border-radius: 10px;
+    padding: 10px;
+}
